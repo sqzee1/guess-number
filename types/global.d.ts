@@ -1,1 +1,1 @@
-type Maybe<T> = T | undefined;
+type __maybe<T> = T | undefined;
